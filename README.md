@@ -1,6 +1,6 @@
 # Polka Madness! 
 
-Welcome to the polka-madness wiki!
+Welcome to the polka-madness!
 
 This project is to enjoy multi-coloured POLKA DOTS! 💯 
 
